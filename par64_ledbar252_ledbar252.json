@@ -1,0 +1,549 @@
+{
+	"fixtures" : [ 		{
+			"cells" : [  ],
+			"channel" : 1,
+			"children" : [  ],
+			"id" : "HAX3OCP3hJDRnHwzRCgqjz0pCQmTSr7v",
+			"modeName" : "4-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 60,
+					"name" : "par64"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGBW",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 7,
+			"children" : [  ],
+			"id" : "O2gO5ojgaRpDJtChl8N4wOzbAhXVJsU0",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 60,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 13,
+			"children" : [  ],
+			"id" : "PSY9g0dZzswGCscaM6N5NlGFNGh1NU4n",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 61,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 19,
+			"children" : [  ],
+			"id" : "8bOdMKcLecSwSKL4H2gfvq9C8EpUT0JM",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 62,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 25,
+			"children" : [  ],
+			"id" : "ehc6fm9R",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 63,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 31,
+			"children" : [  ],
+			"id" : "sVIAdcG2zqC34gpNwfzeYns1VXN6frRh",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 64,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 37,
+			"children" : [  ],
+			"id" : "Cv",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 65,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 43,
+			"children" : [  ],
+			"id" : "gP4VsMwYlKZnoSfefKBKpwQBQgFKDXlO",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 66,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 49,
+			"children" : [  ],
+			"id" : "a2be",
+			"modeName" : "3-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 67,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic RGB",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 5,
+			"children" : [  ],
+			"id" : "I2cKoOMuwgJ12mE9MwxhdkGb6eanTMZk",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 60,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 11,
+			"children" : [  ],
+			"id" : "I6ZtXKwUuVhBzUsasvGH51mJrE60w0MG",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 61,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 17,
+			"children" : [  ],
+			"id" : "n",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 62,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 23,
+			"children" : [  ],
+			"id" : "ivGYP5PGK3hXZ5CIxiYRbs8r2g3xJ8F6",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 63,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 29,
+			"children" : [  ],
+			"id" : "r7WPCi1FW8SzOM5JDj4yW",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 64,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 35,
+			"children" : [  ],
+			"id" : "ppsU71dAZURNInuVO9La0QTHfHwsSIbC",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 65,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 41,
+			"children" : [  ],
+			"id" : "rfu",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 66,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"cells" : [  ],
+			"channel" : 47,
+			"children" : [  ],
+			"id" : "79CNmCDzoU",
+			"modeName" : "1-channel",
+			"name" : "",
+			"ranges" : [  ],
+			"tags" : [ 				{
+					"index" : 67,
+					"name" : "ledbar252"
+				}
+ ],
+			"testOn" : 0,
+			"type" : "Generic Dimmer",
+			"universe" : 1
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 53,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 59,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 65,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 71,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 77,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 83,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 89,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 95,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 55,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 61,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 67,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 73,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 79,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 85,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 91,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 97,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "ledbar252",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+ ],
+	"version" : 1
+}
